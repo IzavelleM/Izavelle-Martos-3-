@@ -1,6 +1,6 @@
-# LuckyLunaM
+# Izavelle Martos
 
-Hi it's nice to meet you!
+Hi, let me tell you a bit about myself!
 
-Hello I'm Izavelle Martos and I love music 
-I also enjoy singing and petting fluffy dogs 
+I'm known as Izavelle Martos and I love music 
+I also enjoy singing and petting all kinds of dogs 
