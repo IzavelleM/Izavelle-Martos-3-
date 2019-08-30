@@ -1,14 +1,15 @@
 
 body {
   background-color: #c9ff99;
+}
 h1 {
   color: lightpink;
-  text-align: CENTER;
+  text-align: center;
   font-family: CourierNew;
 }
 p {
   font-family: CourierNew;
   font-size: 30px;
  color: black;
-  text-align: CENTER;
+  text-align: center;
 }
