@@ -21,3 +21,65 @@ p {
 <p>This is my website about me! I love music, testing my creativity, and animals with hats. I'm a student from James Campbell Highschool and I hope you enjoy learning about me.(✿◠‿◠)</p>
 
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  background-color: #ffffa8;
+  font-family: 	Courier New, Helvetica, sans-serif;
+}
+
+#navbar {
+  background-color: #ffe6e6;
+  position: fixed;
+  top: -50px;
+  width: 100%;
+  display: block;
+  transition: top 0.3s;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#navbar a:hover {
+  background-color: #e5fff9;
+  color: black;
+}
+</style>
+</head>
+<body>
+
+<div id="navbar">
+  <a href="#home">🏠 Home 🏠</a>
+  <a href="#portfolio">Portfolio</a>
+  <a href="#extra">Extra</a>
+</div>
+
+
+<div style="padding:15px 15px 2500px;font-size:30px">
+  <p>Scroll down this frame to see the effect!</p>
+  <p>Scroll to the top to hide the navbar.</p>
+ 
+</div>
+<script>
+// When the user scrolls down 20px from the top of the document, slide down the navbar
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("navbar").style.top = "0";
+  } else {
+    document.getElementById("navbar").style.top = "-50px";
+  }
+}
+</script>
+
+</body>
