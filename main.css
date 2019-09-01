@@ -1,12 +1,13 @@
 <head>
 <style>
 
+{
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
   margin: 0;
   background-color: #ffffa8;
-  font-family: courier new, courier new, sans-serif;
+  font-family: Monospace, Courier New, sans-serif;
 }
 
 #navbar {
