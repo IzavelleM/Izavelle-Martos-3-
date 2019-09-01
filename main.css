@@ -33,5 +33,23 @@ body {
   background-color:  #e5fff9;
   color: black;
 }
+ 
+<style>
 
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: courier new;
+  color: #ffa8a8;
+}
+
+p {
+  text-indent: 50px;
+  text-align: center;
+  font-family: courier new;
+  letter-spacing: 0px;
+
+}
+
+</style>
 
