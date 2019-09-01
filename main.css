@@ -15,4 +15,36 @@ p {
   text-align: center;
 }
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  background-color: #ffffa8;
+  font-family: Monospace, Courier New, sans-serif;
+}
+
+#navbar {
+  background-color: #ffe6e6;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: block;
+  transition: top 0.3s;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#navbar a:hover {
+  background-color:  #e5fff9;
+  color: black;
+}
 
