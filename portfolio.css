@@ -1,3 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
 body {
   background-color:  #ffffa8;
 }
@@ -5,7 +18,7 @@ body {
 body {
   margin: 0;
   background-color: #ffffa8;
-  font-family: Monospace, Courier New, sans-serif;
+  font-family: Monospace, courier new, sans-serif;
 }
 
 #navbar {
