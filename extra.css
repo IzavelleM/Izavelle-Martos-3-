@@ -24,3 +24,20 @@ body {
   background-color:  #e5fff9;
   color: black;
 }
+
+
+
+
+
+
+
+
+div1 {
+  display: block;
+  margin-left: 70px;
+  margin-right: 0px;
+}
+h3 {
+	text-align: center;
+	color:  #df9f9f
+}
