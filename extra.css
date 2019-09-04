@@ -3,7 +3,7 @@ body {
   margin: 0;
   font-family: Monospace, Courier New, sans-serif;
 }
-
+/*this makes my site light yellow and cute with the use of fonts*/
 
 
 
@@ -31,6 +31,7 @@ body {
   clear: both;
   display: table;
 }
+/*this makes my pictures side by side and formatted*/
 
 
 
@@ -56,3 +57,4 @@ body {
   background-color:  #e5fff9;
   color: black;
 }
+/*this makes my navbar colorful, have fonts, and light blue when you're hovering over it. overall decorates the navbar*/
